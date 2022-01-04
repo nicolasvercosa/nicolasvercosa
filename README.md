@@ -12,5 +12,3 @@
   <img height='25' width='25' src="https://user-images.githubusercontent.com/81280219/148125180-8b207752-99d9-458c-9f9d-be4bfd37148d.png" />
   <img height='25' width='25'src="https://user-images.githubusercontent.com/81280219/148123794-67a8554b-e5ac-49e2-8d00-45a2921588f6.png" />
 </div>
-
-![logo ifal](https://user-images.githubusercontent.com/81280219/148126999-0f61fa83-0ea8-4987-9592-da74ab20f425.png)
