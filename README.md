@@ -6,7 +6,7 @@
 
 <div display="flex">
   
-  <img margin-right="100" height='40' width='40' src="https://user-images.githubusercontent.com/81280219/148124665-898911db-f6e2-4bbd-96f2-8e4e99b32e65.png" />
+  <img height='40' width='40' src="https://user-images.githubusercontent.com/81280219/148124665-898911db-f6e2-4bbd-96f2-8e4e99b32e65.png" /> <\n>
   <img margin-right="10" height='40' width='40' src='https://user-images.githubusercontent.com/81280219/148122374-2c39f9cb-5985-4484-8a23-fd6e54457c93.png' />
   <img margin-right="10" height="40" width="40" src="https://user-images.githubusercontent.com/81280219/148125180-8b207752-99d9-458c-9f9d-be4bfd37148d.png" />
   <img margin-right="10" height='40' width='40' src="https://user-images.githubusercontent.com/81280219/148123794-67a8554b-e5ac-49e2-8d00-45a2921588f6.png" />
