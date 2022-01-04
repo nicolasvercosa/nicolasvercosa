@@ -4,8 +4,8 @@
 
 <a href="https://www.linkedin.com/in/nicolasvercosa/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-</a>\
-
+</a>
+  <br/>
   <br/>
 <div display="inline">
   <img height='25' width='25' src="https://user-images.githubusercontent.com/81280219/148124665-898911db-f6e2-4bbd-96f2-8e4e99b32e65.png" />
