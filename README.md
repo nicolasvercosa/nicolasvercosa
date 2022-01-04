@@ -10,7 +10,7 @@
   <br/>
   
   
-<div display="inline">
+<div display="inline-block">
   <img height='25' width='25' src="https://user-images.githubusercontent.com/81280219/148124665-898911db-f6e2-4bbd-96f2-8e4e99b32e65.png" />
   <img height='25' width='25' src='https://user-images.githubusercontent.com/81280219/148122374-2c39f9cb-5985-4484-8a23-fd6e54457c93.png' />
   <img height='25' width='25' src="https://user-images.githubusercontent.com/81280219/148125180-8b207752-99d9-458c-9f9d-be4bfd37148d.png" />
