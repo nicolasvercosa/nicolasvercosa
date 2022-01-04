@@ -1,6 +1,6 @@
-## Nicolas Verçosa ✌
+<h1> Nicolas Verçosa ✌ </h2>
 <hr> 
-### Hello!
+<h3>Hello!</h3>
 
 <a>https://www.linkedin.com/in/nicolasvercosa/</a>
 
