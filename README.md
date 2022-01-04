@@ -2,7 +2,7 @@
 <hr> 
 <h3>Hello!</h3>
 
-<a href="https://www.linkedin.com/in/nicolasvercosa/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/nicolasvercosa/">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
 
 <div display="flex">
   
