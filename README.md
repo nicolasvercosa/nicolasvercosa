@@ -3,7 +3,7 @@
 ## Hello!
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
+<i class="devicon-html5-plain colored"></i>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
