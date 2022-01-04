@@ -2,5 +2,5 @@
 <hr> 
 <h3>Hello!</h3>
 
-<a>https://www.linkedin.com/in/nicolasvercosa/</a>
+<a href="https://www.linkedin.com/in/nicolasvercosa/">LinkedIn</a>
 
